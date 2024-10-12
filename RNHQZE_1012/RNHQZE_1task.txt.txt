@@ -1,0 +1,14 @@
+Local
+1. git status - állapot ellenőrzés
+2. git add "Neptunkod_1012" - feltöltés vagy ha több fájl van
+venne, akkor
+3. git add "Neptunkod_1012/*.*"
+3a. git add . -feltölti az összes fájlt, ami a Neptunkod_0212 -be
+van
+4. git commit -m "3 file save" - fel committoltuk a stage-re
+
+
+Feltöltés
+
+git push - majd frisstités
+
