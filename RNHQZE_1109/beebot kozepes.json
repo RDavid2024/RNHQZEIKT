@@ -1,0 +1,8 @@
+{
+    "botShape": "default",
+    "path": "/",
+    "mat": "Card Mat",
+    "type": "Bee-Bot",
+    "commands": "fd,rt,fd,fd,fd,fd,lt,fd,fd,lt,fd,rt,fd,rt,fd,fd,lt,fd",
+    "visible": true
+}
